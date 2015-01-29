@@ -7,6 +7,7 @@ my dotfiles using [GNU Stow](http://www.gnu.org/software/stow/)
 Programs Managed
 ================
 
+* pyenv
 * IPython
 * vim
 
@@ -22,3 +23,8 @@ I wrote this without testing it. Is it possible to keep separate environments to
 	git submodule init
 	stow vim
 	stow ...
+
+Notes
+=====
+
+* Programs and their plugins should be managed via separate directories to avoid nested git submodule. They are a nasty beast.
