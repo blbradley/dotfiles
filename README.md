@@ -10,6 +10,7 @@ Programs Managed
 * pyenv
 * IPython
 * vim
+* zsh
 
 
 Ubuntu
