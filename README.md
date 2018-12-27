@@ -39,5 +39,6 @@ Usage
 Notes
 -----
 
+* GNU Stow makes symlinks in your home directory to these files (technically, it symlinks the files up a directory, meaning dotfiles must live in your home directory for the files to be symlinked into ~).
 * Programs and their plugins should be managed via separate directories to avoid nested git submodule. They are a nasty beast.
 * Is it possible to keep separate environments too?
