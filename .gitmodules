@@ -7,6 +7,3 @@
 [submodule "pyenv-plugins/.pyenv/plugins/pyenv-virtualenv"]
 	path = pyenv-plugins/.pyenv/plugins/pyenv-virtualenv
 	url = https://github.com/yyuu/pyenv-virtualenv.git
-[submodule "zsh/.oh-my-zsh"]
-	path = zsh/.oh-my-zsh
-	url = https://github.com/robbyrussell/oh-my-zsh
