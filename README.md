@@ -7,7 +7,6 @@ my dotfiles using [GNU Stow](http://www.gnu.org/software/stow/)
 Programs Managed
 ----------------
 
-* pyenv
 * IPython
 * vim
 * tmux
